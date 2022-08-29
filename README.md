@@ -3,7 +3,7 @@
 
 ## 1 前情提要
 - 关联项目
-  - 原[基于python的人脸识别测温系统](/raspi_face_tpm)项目主要由python编写，不支持并发操作。
-  - 管理系统 [web端管理系统](/bs_web_server)
+  - 原[基于python的人脸识别测温系统](https://github.com/bjfqdclf/raspi_face_tpm)项目主要由python编写，不支持并发操作。
+  - 管理系统 [web端管理系统](https://github.com/bjfqdclf/campus_management_COVID-19_system)
 - 解决问题
 
